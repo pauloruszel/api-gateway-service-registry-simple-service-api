@@ -1,4 +1,4 @@
-# 🎯 API Gateway, Service Registry e Simple Service API 🚀
+# 🚀 API Gateway, Service Registry e Simple Service API
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.0-brightgreen.svg)
