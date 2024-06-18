@@ -31,7 +31,7 @@ api-gateway-service-registry-simple-service-api
 ### Clonando o Repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/api-gateway-service-registry-simple-service-api.git
+git clone https://github.com/pauloruszel/api-gateway-service-registry-simple-service-api.git
 ```
 
 ## 🛠️ Construindo o Projeto
