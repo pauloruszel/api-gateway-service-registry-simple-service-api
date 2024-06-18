@@ -4,8 +4,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.0-brightgreen.svg)
 ![Maven](https://img.shields.io/badge/Maven-3.6.3-yellow.svg)
 
-Um projeto de exemplo que demonstra a integração de um API Gateway, um Service Registry (Eureka) e um serviço simples usando Spring Boot e Spring Cloud.
-POC para conectar um api simples em uma api-gateway e se registrarem num service-registry
+POC de exemplo que demonstra a integração de um API Gateway, um Service Registry (Eureka) e um serviço simples usando Spring Boot e Spring Cloud.
 
 ## Estrutura do Projeto
 
